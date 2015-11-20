@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/initialize.coffee"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,EAAE,QAAF,CAAW,CAAC,KAAZ,CAAkB,aAAlB","file":"public/javascripts/app.js","sourcesContent":["$(document).ready ->\n  #write your code here!"]}
